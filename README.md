@@ -1,2 +1,2 @@
 # MovieDB
-An Android App based on themoviedb API 
+An Android App based on [themoviedb](https://www.themoviedb.org) API 
